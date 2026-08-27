@@ -8,7 +8,7 @@ Add the following into your `config/extra.toml` file.
 
 ```toml
 [[ballsdex.packages]]
-location = "git+https://github.com/seiftheman/ballsdex-tutorial.git#main"
+location = "git+https://github.com/seiftheman/ballsdex-tutorial.git@v1.0.1#main"
 path = "tutorial"
 enabled = true
 ```
